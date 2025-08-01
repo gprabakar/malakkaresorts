@@ -1,2 +1,2 @@
-# malakka resorts
+# Malakka resorts
 Studio appartments.
